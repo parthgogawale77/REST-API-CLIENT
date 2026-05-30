@@ -32,3 +32,4 @@ The application also includes exception handling using a try-catch block. Except
 Overall, this project demonstrates the implementation of a Java REST API client capable of sending HTTP requests, consuming public APIs, parsing JSON responses, and displaying formatted results. It provides hands-on experience with API integration and modern web communication techniques in Java.
 
 OUTPUT : 
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/8f776f95-b0cb-4bc6-97d6-265a34276946" />
